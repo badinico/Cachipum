@@ -36,4 +36,5 @@ def main():
             
     print("Puntaje final - Jugador 1:", point_p1, "Jugador 2:", point_p2)
     
-main()
+if __name__ == "__main__":
+    main()
