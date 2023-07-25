@@ -1,7 +1,5 @@
 # Juego de Piedra, Papel o Tijeras en Python
 
-![Piedra, Papel o Tijeras](https://github.com/tuusuario/turepo/blob/main/imagen.png)
-
 ## Descripción
 
 Este es un simple juego de Piedra, Papel o Tijeras implementado en Python. Permite a dos jugadores competir en una serie de rondas, y el jugador que gane la mayoría de las rondas es declarado como el ganador.
